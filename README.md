@@ -79,7 +79,7 @@ movie-browser/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/movie-browser.git
+   git clone https://github.com/justustin/movie-app.git
    ```
 
 2. Navigate to the project directory:
